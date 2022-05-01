@@ -12,5 +12,8 @@ i.e.
 </html>
 ```
 
+Even if [another dom exists](https://mazamachi.github.io/chrome-pdf-examples/examples/flex-gap-along-with-content.html), the number of pages is 28,198.
+
 If [some child elements exists](https://mazamachi.github.io/chrome-pdf-examples/examples/flex-gap-with-child.html), Chromium correctly generate 1 page.
+
 If [`gap` is not specified](https://mazamachi.github.io/chrome-pdf-examples/examples/flex.html), Chromium correctly generate 1 page.
